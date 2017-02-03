@@ -1,7 +1,7 @@
 # ServerAutomation
 Local Server Setup
 ##SSH Allow
-sudo ufw allow 27017
+''sudo ufw allow 27017
 sudo ufw allow 873
 sudo ufw allow 6379
 sudo ufw allow 5432
