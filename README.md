@@ -40,6 +40,8 @@ echo "Done"
 sudo apt-get update
 sudo apt-get install postgresql postgresql-contrib
 sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib nginx
+sudo systemctl enable nginx
+sudo systemctl status nginx
 ```
 ##Installing mongo-db
 ```bash
