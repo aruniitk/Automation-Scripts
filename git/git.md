@@ -1,7 +1,7 @@
 ## Install git
 ```$ sudo apt-get update```
 ## Git
-```sudo apt install git```
+```$ sudo apt install git```
 ## Cloning
 ```$ sudo git clone <url>```
 ## Updation from server
