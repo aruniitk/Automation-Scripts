@@ -1,10 +1,10 @@
 ## Nginx Guide
 
-## Settings
+#### Settings
 ```bash 
 $ sudo nano /etc/nginx/sites-available/default
 ```
-## Syntax Checking 
+#### Syntax Checking 
 ```bash 
 $ sudo nginx -t
 ```
