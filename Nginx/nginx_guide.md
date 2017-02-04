@@ -1,7 +1,7 @@
 ## Nginx Guide
 
-# Settings
+## Settings
 ```sudo nano /etc/nginx/sites-available/default```
 
-# Syntax Checking 
-```sudo```
+## Syntax Checking 
+```sudo nginx -t```
