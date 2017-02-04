@@ -1,18 +1,23 @@
 ## Nginx Guide
 
 ## Settings
-```sudo nano /etc/nginx/sites-available/default```
-
+```bash 
+$ sudo nano /etc/nginx/sites-available/default
+```
 ## Syntax Checking 
-```sudo nginx -t```
-
+```bash 
+$ sudo nginx -t
+```
 #### Restart the nginx webserver
-```sudo systemctl status nginx```
-```sudo systemctl restart nginx```
+```bash 
+$ sudo systemctl status nginx
+$ sudo systemctl restart nginx
+```
 #### Enable at startup
-```sudo systemctl enable nginx```
-
+```bash 
+$ sudo systemctl enable nginx
+```
 #### Check PID on a port
-
-```netstat -nlp | grep i:<$port>```
-
+```bash 
+$ netstat -nlp | grep i:<$port>
+```
