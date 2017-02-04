@@ -1,7 +1,6 @@
 # ServerAutomation
 Local Server Setup for backend local development. For production-level automation script email ```dexternefario@outlook.com```
 Mainly for ```Ubuntu & Mac Server```. For Windows server email ```sumit@techstackz.com``` or ```dexternefario@outlook.com```
-THANK YOU !!!
 
 ##SSH Allow
 ```bash
