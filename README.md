@@ -92,3 +92,6 @@ $ cd redis-3.2.7/utils
 $ sudo ./install_server.sh 
 $ redis-cli
 ```
+```bash 
+$ gcc -c main.cpp -o main.o
+$ objdump -d -M intel main.o```
