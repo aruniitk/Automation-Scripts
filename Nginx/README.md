@@ -10,6 +10,7 @@ $ sudo nginx -t
 ```
 #### Restart the nginx webserver
 ```bash 
+$ sudo apt-get install nginx
 $ sudo systemctl status nginx
 $ sudo systemctl restart nginx
 ```
