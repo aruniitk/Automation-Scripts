@@ -1,0 +1,1397 @@
+    1  sudo apt-get update
+    2  sudo apt-get install nvidia-driver
+    3  sudo apt-get upgrade
+    4  sudo nano /etc/apt/sources.list.d/parrot.list 
+    5  crontab -e
+    6  sudo apt-get update
+    7  sudo apt-get install nvidia
+    8  sudo apt-get install nvidia-driver
+    9  sudo update-grub
+   10  sudo apt-get update
+   11  sudo nano /etc/apt/sources.list.d/parrot.list 
+   12  sudo apt-get update
+   13  sudo nano /etc/apt/sources.list.d/parrot.list 
+   14  sudo apt-get update
+   15  sudo apt-get install golang-go
+   16  sudo reboot
+   17  sudo lsmod | grep nvidia
+   18  exit
+   19  sudo apt-get update
+   20  sudo apt-get full-upgrade
+   21  sudo apt-get update
+   22  sudo apt-get full-upgrade
+   23  sudo apt autoremove
+   24  sudo apt-get dist-upgrade
+   25  sudo apt-get install nvidia-driver
+   26  sudo update-initramfs
+   27  sudo update-initramfs -h
+   28  sudo update-initramfs -h -a
+   29  sudo update-initramfs -h a;;
+   30  sudo update-initramfs -h 'all
+   31  sudo update-initramfs 'all'
+   32  sudo update-initramfs -u
+   33  sudo update-grub
+   34  sudo reboot
+   35  sudo apt-get update
+   36  clear
+   37  mkdir google-ctf
+   38  mkdir hack_os_debug
+   39  mkdir HaikuOS-bug0-dev1-freelist
+   40  sudo chmod a+rwx *
+   41  clear
+   42  cd google-ctf/
+   43  sudo chmod a+rwx *
+   44  clear
+   45  sudo nano build-dev.sh
+   46  sudo nano code-ctf.cpp
+   47  ls
+   48  sudo chmod a+x ./build-dev.sh 
+   49  sudo ./build-dev.sh 
+   50  sudo mv code-ctf.cpp ctf-code.cpp
+   51  ls
+   52  sudo ./build-dev.sh 
+   53  clear
+   54  ls
+   55  sudo nano ctf-code.cpp 
+   56  sudo ./build-dev.sh 
+   57  sudo ./build-dev.sh
+   58  Q#
+   59  sudo apt-get install q#
+   60  sudo apt-get install q
+   61  sudo apt-get install q*
+   62  sudo exit
+   63  exit
+   64  sudo a+rw *
+   65  sudo chmod a+rw *
+   66  sudo chmod a+rwx ./build-dev.sh 
+   67  sudo chmod a+rwx ./code-out.out 
+   68  clear
+   69  sudo pluma ctf-code.cpp 
+   70  py
+   71  python
+   72  clear
+   73  sudo apt-get install curl python-software-properties
+   74  sudo apt-get install curl
+   75  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+   76  sudo apt-get install nodejs
+   77  node -v
+   78  npm -v
+   79  sudo npm -v
+   80  sudo apt-get install npm
+   81  Setting up node-widest-line (1.2.2-1) ...
+   82  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
+   83  echo "deb http://repo.mongodb.org/apt/debian stretch/mongodb-org/4.0 main" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.0.list
+   84  sudo apt-get update
+   85  sudo apt-get install -y mongodb-org
+   86  sudo apt-get install -y mongodb-org=4.0.3 mongodb-org-server=4.0.3 mongodb-org-shell=4.0.3 mongodb-org-mongos=4.0.3 mongodb-org-tools=4.0.3
+   87  sudo apt-get install -y mongodb-org-server=4.0.3 mongodb-org-shell=4.0.3 mongodb-org-mongos=4.0.3 mongodb-org-tools=4.0.3
+   88  sudo apt-get install libcurl3 openssl
+   89  sudo apt-get install -y mongodb-org
+   90  echo "deb http://download.opensuse.org/repositories/network:/messaging:/zeromq:/release-stable/Debian_9.0/ ./" >> /etc/apt/sources.list
+   91  wget https://download.opensuse.org/repositories/network:/messaging:/zeromq:/release-stable/Debian_9.0/Release.key -O- | sudo apt-key add
+   92  apt-get install libzmq3-dev
+   93  sudo apt-get install libzmq3-dev
+   94  wget http://download.redis.io/redis-stable.tar.gz
+   95  tar xvzf redis-stable.tar.gz
+   96  cd redis-stable
+   97  make
+   98  make test
+   99  sudo apt install postgresql postgresql-contrib
+  100  CLEAR
+  101  sudo wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+  102  echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
+  103  sudo apt-get update 
+  104  sudo apt-get install google-chrome-stable
+  105  parody
+  106  exirt
+  107  exit
+  108  iq]
+  109  iq
+  110  lmod
+  111  lsmod
+  112  lsmod | grep 0
+  113  dmesg
+  114  sudo dmesg
+  115  sudo update-initramfs -u
+  116  sudo update-grub
+  117  sudo reboot
+  118  sudo apt-get update
+  119  sudo npm install heartbeats
+  120  sudo npm install heartbeats -g
+  121  cd Desktop/
+  122  ls
+  123  cd hack_os_debug/
+  124  clear
+  125  sudo nano heartbeat.js
+  126  sudo node heartbeat.js 
+  127  sudo nodejs heartbeat.js 
+  128  sudo node heartbeat.js 
+  129  sudo nodejs heartbeat.js 
+  130  ls
+  131  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+  132  sudo curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+  133  sudo apt-get install curl
+  134  mongo
+  135  mongo-server
+  136  sudo curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+  137  sudo apt-get install -y node
+  138  sudo apt-get install -y nodejs
+  139  sudo apt-get install -y node.js
+  140  sudo apt-get install -y nodejs
+  141  sudo apt autoremove
+  142  sudo apt-get install -y mongo
+  143  sudo apt-get install -y mongo-org
+  144  sudo apt-get install -y mongodb
+  145  mongo -v
+  146  mongod -v
+  147  sudo su -
+  148  mongod -v
+  149  mongod
+  150  sudo mongod
+  151  sudo app.js
+  152  sudo nano app.j
+  153  sudo node app.js
+  154  sudo nano heartbeat.js
+  155  sudo node heartbeat.js 
+  156  sudo node heartbeat.js
+  157  exit
+  158  cd ..
+  159  cd Doc
+  160  cd Documents/
+  161  clear
+  162  mkdir Coding_Tests
+  163  cd Coding_Tests/
+  164  sudo git clone https://github.com/stiv-yakovenko/kraken-challenge.git
+  165  sudo rm -rf kraken-challenge/
+  166  sudo git clone https://github.com/stiv-yakovenko/kraken-challenge.git Kraken-Coding-Test
+  167  sudo git clone https://github.com/SpawnTree/Algorithms-Unlocked.git Algorithms-Code
+  168  sudo git clone https://github.com/SpawnTree/Yacc-Lex-Parser.git Yacc-Lex-Parser
+  169  sudo git clone https://github.com/SpawnTree/WebSQL-Application.git WebSQL-App
+  170  sudo chmod a+rw *
+  171  sudo chmod a+rwx *
+  172  sudo POST 
+  173  sudo libre-office
+  174  sudo apt-get install indicator-remindor
+  175  sudo apt-get install nudge
+  176  gnome
+  177  gnome-todo
+  178  sudo apt-get install gnome-shell-pomodoro
+  179  gnome-shell-pomodoro
+  180  pomodoro
+  181  sudo apt-get install evolution
+  182  sudo evolution
+  183  sudo tar -xzvf calcurse-4.3.0.tar.gz 
+  184  cd calcurse-4.3.0/
+  185  sudo ./configure
+  186  sudo make
+  187  sudo make all
+  188  sudo make install
+  189  calcurse
+  190  xit
+  191  exit
+  192  flatpak
+  193  sudo apt-get install flatpak
+  194  sudo nano gnome-todo.flatpakref
+  195  sudo flatpak install ./gnome-todo.flatpakref
+  196  todo
+  197  gnome-todo
+  198  sudo apt install --install-suggests mate-desktop
+  199  sudo apt-gfet install taskel
+  200  sudo apt-gfet install tasksel
+  201  sudo apt-get install tasksel
+  202  tasksel install gnome-desktop --new-install
+  203  sudo tasksel install gnome-desktop --new-install
+  204  sudo reboot
+  205  sudo add-apt-repository ppa:gnome3-team/gnome3
+  206  sudo apt-get update && sudo apt-get install gnome-shell ubuntu-gnome-desktop
+  207  sudo apt-get install ubuntu-gnome-desktop
+  208  1
+  209  sudo apt-get install cinnamon
+  210  1
+  211  sudo apt-get install cinnamon
+  212  sudo reboot
+  213  sudo apt-get install ubuntu-gnome-desktop
+  214  sudo apt-get install gnome
+  215  sudo apt-get install gnome-desktop
+  216  sudo apt get isntall gnome-tools
+  217  sudo apt-get isntall gnome-tools
+  218  sudo apt-get install gnome-tools
+  219  sudo apt-get install gnome-tool
+  220  sudo apt-get install gnome-tweak-
+  221  sudo apt-get install gnome-tweak-*
+  222  sudo gnome-tweak-tool
+  223  sudo run gnome-tweak-tool
+  224  sudo apt install gnome-tweak-tool
+  225  sudo apt-get install gnome-tweak-tool
+  226  sudo apt-get install gnome-desktop-3
+  227  sudo apt-get install gnome-*
+  228  sudo apt-get install gnome-d*
+  229  sudo reboot
+  230  sudo nano /usr/share/gnome-shell/theme/gnome-shell.css
+  231  sudo apt-get install gnome-shell-extensions-user-theme
+  232  sudo add-apt-repository ppa:webupd8team/gnome3
+  233  sudo apt-get update
+  234  clear
+  235  exit
+  236  settings
+  237  mate-settings
+  238  mate-setting
+  239  sudo mate-setting
+  240  sudi dconf reset -f /
+  241  sudo dconf reset -f /
+  242  sudo apt-get install docker
+  243  node -v
+  244  nodejs -v
+  245  npm -v
+  246  sudo apt-get remove docker docker-engine docker.io
+  247  sudo apt-get install      apt-transport-https      ca-certificates      curl      gnupg2      software-properties-common
+  248  curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
+  249  sudo apt-key fingerprint 0EBFCD88
+  250  sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/debian \
+  251     $(lsb_release -cs) \
+  252     stable"
+  253  sudo apt-get update
+  254  sudo apt-get install docker-ce
+  255  sudo apt-get install docker-ee
+  256  sudo docker run hello-world
+  257  sudo apt-get install apache2 apache mysql
+  258  sudo apt-get install apache2 mysql
+  259  sudo apt-get install mysql-server
+  260  sudo apt-get install default-mysql-server
+  261  mysql u
+  262  sudo apt-get install mysqltuner
+  263  wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.asc.gpg
+  264  sudo mv microsoft.asc.gpg /etc/apt/trusted.gpg.d/
+  265  wget -q https://packages.microsoft.com/config/debian/9/prod.list
+  266  W
+  267  sudo mv prod.list /etc/apt/sources.list.d/microsoft-prod.list
+  268  sudo chown root:root /etc/apt/trusted.gpg.d/microsoft.asc.gpg
+  269  sudo chown root:root /etc/apt/sources.list.d/microsoft-prod.list
+  270  sudo apt-get update
+  271  sudo apt-get install dotnet-hosting-2.0.5
+  272  sudo apt-get install dotnet-runtime-2.0.5
+  273  sudo apt-get install libcurl3
+  274  sudo apt-get install dotnet-runtime-2.0.5
+  275  sudo apt-get install dotnet-hosting-2.0.5
+  276  ls
+  277  sudo docker Dockerfile
+  278  sudo docker build 
+  279  sudo docker-compose up
+  280  sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  281  sudo wget -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  282  sudo chmod +x /usr/local/bin/docker-compose
+  283  docker-compose --version
+  284  sudo pip install docker-compose
+  285  docker-compose --version
+  286  sudo docker-compose --version
+  287  sudo docker-compose up
+  288  sudo rm -rf /usr/local/bin/docker-compose 
+  289  sudo pip install docker-compose
+  290  sudo docker-compose up
+  291  sudo apt-get install curl
+  292  sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  293  sudo docker-compose --version
+  294  sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  295  sudo chmod +x /usr/local/bin/docker-compose
+  296  docker-compose --version
+  297  sudo docker-compose up
+  298  dotnet -v
+  299  sudo apt-get install dotnet-sdk-2.1
+  300  dotnet -v
+  301  mongod
+  302  sudo spt-get install curl
+  303  sudo apt-get install curl
+  304  sudo docker-compose up
+  305  cd Desktop/
+  306  cd Coding_Tests/
+  307  cd Kraken-Coding-Test/
+  308  cd Kraken-Source/
+  309  ls
+  310  sudo docker-compose up
+  311  sudo docker-compose up --build
+  312  mongo
+  313  su -
+  314  sudo su -
+  315  sudo docker-compose up --build
+  316  sudo a+rwx *
+  317  sudo chmod a+rwx *
+  318  cd ..
+  319  sudo mkdir -p dotnet-apps
+  320  sudo dotnet --help
+  321  sudo dotnet new
+  322  dotnet new console --output sample1
+  323  dotnet run --project sample1
+  324  ls
+  325  sudo rm -rf sample1/
+  326  clear
+  327  sudo git clone https://github.com/haiku/haiku.git
+  328  sudo mv haiku/ haiku-local-development-dev/
+  329  ls
+  330  cd haiku-local-development-dev/
+  331  ls
+  332  ./configure 
+  333  sudo ./configure 
+  334  sudo ./configure --host-only
+  335  sudo make 
+  336  ls
+  337  cd build/
+  338  ls
+  339  cd scripts/
+  340  lsd
+  341  ls
+  342  clear
+  343  sudo chmod a+rw *
+  344  cd Desktop/
+  345  cd hack_os_debug/
+  346  sudo git clone https://github.com/torvalds/test-tlb.git
+  347  sudo make
+  348  sudo g++ -std=c++11 test-tlb/test-tlb.c -o test-tlb/a.out
+  349  cd test-tlb/
+  350  gcc -g -Wall -O test-tlb.c -o test-tlb -lm
+  351  sudo gcc -g -Wall -O test-tlb.c -o test-tlb -lm
+  352  ls
+  353  sudo ./test-tlb 128M 61943452
+  354  sudo make Makefile
+  355  sudo make run
+  356  sudo apt install openjdk-8-jdk-headless
+  357  redis-cli
+  358  redis
+  359  sudo redis-cli
+  360  sudo redis-server
+  361  redis-cli
+  362  mmap
+  363  pmap
+  364  sudo pmap -XX
+  365  sudo pmap 8854 -XX
+  366  ps aux
+  367  sudo pmap 9701 -XX
+  368  sudo pmap 9701 -XX > route.txt
+  369  sudo git clone https://github.com/torvalds/linux.git Linux-Branch-Code-freelist
+  370  cd Linux-Branch-Code-freelist/
+  371  clear
+  372  ls
+  373  sudo nano README
+  374  sudo make pdfdocs
+  375  sudo apt-get install Sphynix
+  376  sudo apt-get install Sphinx
+  377  sudo apt-get install Sphinx*
+  378  sudo git remote add origin https://shekharhiranhotmailcom@helixteamhub.cloud/googleopensource/projects/coding_challenges/repositories/git/coding_challenges
+  379  git init
+  380  git add .
+  381  git commit -m "PushMaster"
+  382  sudo git remote add origin https://shekharhiranhotmailcom@helixteamhub.cloud/googleopensource/projects/coding_challenges/repositories/git/coding_challenges
+  383  git push -u origin master
+  384  sudo ./build-dev.sh 
+  385  sudo git remote add origin https://shekharhiranhotmailcom@helixteamhub.cloud/googleopensource/projects/coding_challenges/repositories/git/coding_challenges
+  386  git init
+  387  git add .
+  388  git commit -m "Push"
+  389  sudo git remote add origin https://shekharhiranhotmailcom@helixteamhub.cloud/googleopensource/projects/coding_challenges/repositories/git/coding_challenges
+  390  git push -u origin master
+  391  git add .
+  392  git commit -m "Push"
+  393  git push -u origin master
+  394  sudo git remote add origin https://shekharhiranhotmailcom@helixteamhub.cloud/googleopensource/projects/coding_challenges/repositories/git/coding_challenges
+  395  clear
+  396  dfd
+  397  clear
+  398  parrot
+  399  parrot-os
+  400  sudo nano parrot-os-install.sh
+  401  sudo chmod a+rwx ./parrot-os-install.sh 
+  402  sudo ./parrot-os-install.sh 
+  403  sudo apt-get update
+  404  sudo apt-get full-upgrade
+  405  sudo git clone https://shekharhiranhotmailcom@helixteamhub.cloud/googleopensource/projects/coding_challenges/repositories/git/code_repo
+  406  sudo git clone https://shekharhiranhotmailcom@helixteamhub.cloud/googleopensource/projects/coding_challenges/repositories/git/core_repo
+  407  sudo git clone https://shekharhiranhotmailcom@helixteamhub.cloud/googleopensource/projects/coding_challenges/repositories/git/Vimeo
+  408  sudo chmod a+rw *
+  409  clear
+  410  sudo chmod a+rwx *
+  411  sudo ./timetable.xlsx 
+  412  sudo libreoffice./timetable.xlsx 
+  413  sudo libreoffice ./timetable.xlsx 
+  414  sudo nano open.sh
+  415  sudo chmod a+rwx *
+  416  sudo ./open.sh 
+  417  sudo nano open_doc.sh
+  418  sudo chmod a+rwx *
+  419  sudo ./open_doc.sh 
+  420  sudo chmod a+rwx *
+  421  sudo chmod a+rwx */**/**
+  422  kurgartz
+  423  youtube-dl
+  424  msfconsole-start
+  425  sudo msfconsole-start
+  426  sudo msfstart
+  427  msf
+  428  sudo pmap 8854 -XX
+  429  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+  430  cd ..
+  431  ls
+  432  cd Downloads/
+  433  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+  434  google-chrome
+  435  sudi google-chrome
+  436  sudo google-chrome
+  437  sudo google-chrome --no-sandbox
+  438  sudo google-chrome
+  439  google-chrome
+  440  sudo su -
+  441  exit
+  442  sudo nano shred-go.go
+  443  sudo chmod a+rw \*
+  444  sudo chmod a+rw *
+  445  sudo pluma 
+  446  ls
+  447  sudo nano shred-go.go
+  448  sudo pluma shred-go.go 
+  449  exit
+  450  sudo chmod a+rwx *
+  451  go run shred-go.go 
+  452  sudo su -
+  453  sudo clone https://github.com/Bitcoin-Light-Miner/btcd.git
+  454  sudo git clone https://github.com/Bitcoin-Light-Miner/btcd.git
+  455  sudo git clone https://github.com/Bitcoin-Light-Miner/btcd.git bitcoind-core-go
+  456  clear
+  457  sudo chmod a+rw
+  458  sudo chmod a+rw *
+  459  sudo ./open_doc.sh 
+  460  sudo rm -rf Pretest_【EN】_Lahiri\ Sumit.docx 
+  461  sudo rm -rf Pretest_【EN】_Lahiri\ Sumit.pdf 
+  462  git push origin master
+  463  sudo git push origin master
+  464  sudo git commit -m "Haiku"
+  465  sudo git add .
+  466  sudo git stager
+  467  sudo git stage
+  468  sudo git add .
+  469  sudo git commit -m "Haiku"
+  470  sudo git push origin master
+  471  sudo apt install wine64
+  472  sudo wine64
+  473  sudo dpkg -i crossover_17.5.1-1.deb 
+  474  sudo apt-get install playonlinux samba winbind
+  475  sudo wine64 setup.exe 
+  476  wine setup.exe 
+  477  wine
+  478  sudo dpkg --add-architecture i386 && apt-get update && apt-get install wine32
+  479  sudo dpkg --add-architecture i386 && sudo apt-get update && sudo apt-get install wine32
+  480  sudo apt-get install wine32
+  481  cd ..
+  482  cd home/
+  483  cd parrot-google-ctf/
+  484  cd Downloads/
+  485  sudo gdebi crossover_17.5.1-1.deb 
+  486  sudo wine32
+  487  sudo wine setup.exe 
+  488  sudo apt-get install wine32
+  489  sudo wine setup.exe 
+  490  winecfg
+  491  sudo winecfg-stable 
+  492  wine setup.exe 
+  493  sudo wine setup.exe 
+  494  sudo crossover
+  495  sudo crossystem
+  496  sudo crossystem_s 
+  497  ls
+  498  sudo ./cxmenu-cxoffice-0-29ra4ke-CrossOver.desktop 
+  499  suod
+  500  sudo 
+  501  sudo ./cxmenu-cxoffice-0-29ra4ke-CrossOver.desktop 
+  502  sudo /opt/cxoffice/bin/crossover 
+  503  sudo apt-get install mesa-utils mesa-utils-extra libgl1-mesa-glx:i386 libgl1-mesa-dev ia32-libs
+  504  sudo ln -s /usr/lib/i386-linux-gnu/mesa/libGL.so.1 /usr/lib/i386-linux-gnu/mesa/libGL.so
+  505  sudo ln -s /usr/lib/i386-linux-gnu/mesa/libGL.so /usr/lib/i386-linux-gnu/libGL.so
+  506  sudo apt-get install wine
+  507  export WINEPREFIX="/home/parrot-google-ctf/.wineprefixes/office2010/"
+  508  export WINEARCH="win32"
+  509  winetricks
+  510  sudo apt-get install winetricks
+  511  sudo winetricks
+  512  export WINEARCH="win32"
+  513  export WINEPREFIX="/home/parrot-google-ctf/.wineprefixes/office2010/"
+  514  export WINEARCH="win32"
+  515  cd ..
+  516  cd parrot-google-ctf/
+  517  ls
+  518  winetricks
+  519  wine setup.exe
+  520  sudo CoMarshalInterface Failed to marshal the interface
+  521  fpbn,
+  522  []pzfdg,nbb
+  523  ][pzdg,nb
+  524  p[]zxdfg,n
+  525  p[]zd,gn
+  526  p,zdg
+  527  [pn,z
+  528  d[pg,n []zpfdg,n []pzdg,n xcvb wzxitr
+  529  c;lear
+  530  clear
+  531  sudo wine setup.exe
+  532  sudo apt install libxinerama1:i386 libxcomposite1:i386 libv4l-0:i386
+  533  sudo mkdir -p Office
+  534  sudo chmod a+rw *
+  535  exit
+  536  sudo mount SW_DVD5_Office_Professional_Plus_2016_64Bit_English_MLF_X20-42432.ISO 
+  537  sudo chmod a+rwx *
+  538  sudo dpkg -i wps-office_10.1.0.6757_amd64.deb 
+  539  cd '/home/parrot-google-ctf/Documents/Coding_Tests/LINE Corp./LINE-Pretest-Code'
+  540  clear
+  541  g++ fibonacci.cpp -o fibonacci.out
+  542  time ./fibonacci.out 
+  543  g++ fibonacci.cpp -o fibonacci.out
+  544  time ./fibonacci.out 
+  545  g++ fibonacci.cpp -o fibonacci.out
+  546  time ./fibonacci.out 
+  547  g++ fibonacci.cpp -o fibonacci.out
+  548  time ./fibonacci.out 
+  549  g++ level-order-BST.cpp -o level-order-BST.out
+  550  ./level-order-BST.out 
+  551  g++ level-order-BST.cpp -o level-order-BST.out
+  552  ./level-order-BST.out 
+  553  g++ level-order-BST.cpp -o level-order-BST.out
+  554  ./level-order-BST 
+  555  clear
+  556  ./level-order-BST 
+  557  time ./diceRoll-dp 
+  558  time ./level-order-BST 
+  559  sudo nano /etc/ld.so.conf
+  560  sudo nano .bashrc 
+  561  sudo exit
+  562  exit
+  563  sudo nano /etc/ld.so.conf
+  564  exit
+  565  sudo nano .bashrc 
+  566  exit
+  567  sudo nano /etc/ld.so.conf
+  568  exit
+  569  sudo nano .bashrc 
+  570  exit
+  571  sudo nano .bashrc 
+  572  cd /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+  573  sudo export PATH=$PATH:
+  574  export
+  575  sudo nano .bashrc 
+  576  fg
+  577  sudo nano .bashrc
+  578  sudo nano ~/.bashrc
+  579  export
+  580  sudo nano ~/.bashrc
+  581  exit
+  582  export
+  583  export OUTPUT_PATH
+  584  export
+  585  time ./string_preprocess 
+  586  asdf
+  587  sdf
+  588  time ./string_preprocess 
+  589  cd PWD
+  590  PWD
+  591  pwd
+  592  cd pwd
+  593  g++ string_preprocess.cpp -o string_preprocess.out
+  594  time ./string_preprocess.out 
+  595  g++ string_preprocess.cpp -o string_preprocess.out
+  596  time ./string_preprocess.out 
+  597  sudo nano ~/.bashrc
+  598  sudo exit
+  599  exit
+  600  export
+  601  g++ string_preprocess.cpp -o string_preprocess.out 
+  602  time ./string_preprocess.out 
+  603  sudo git add .
+  604  sudo git commit -am "String"
+  605  sudo git push origin master
+  606  git add .
+  607  sudo git add .
+  608  sudo git status
+  609  sudo git commit -am "Master"
+  610  sudo git push 
+  611  sudo git clone https://github.com/mmcgrana/gobyexample.git
+  612  cd gobyexample/
+  613  sudo go get github.com/russross/blackfriday
+  614  sudo tools/build
+  615  open public/index.html
+  616  cd tools/
+  617  ls
+  618  sudo build
+  619  build
+  620  sudo chmod a+rwx *
+  621  sudo ./build
+  622  sudo ./generate
+  623  sudo t
+  624  asdfr
+  625  asdf
+  626  sadf
+  627  asdf
+  628  sudo tools/build
+  629  sudo chmod a+rwx *
+  630  sudo mkdir -p "GoLangGo"
+  631  sudo chmod a+rwx *
+  632  cd GoLangGo/
+  633  sudo nano golang.go
+  634  sudo chmod a+rwx *
+  635  apm install atom-terminal
+  636  sudo apm install terminal-plus
+  637  sudo npm install -g node-gyp
+  638  sudo apm install terminal-plus
+  639  apm install atom-terminal
+  640  ls
+  641  sudo nano build.sh]
+  642  sudo chmod a+x ./build.sh] 
+  643  sudo mv ./build.sh] build.sh
+  644  sudo ./build.sh 
+  645  go
+  646  go packages
+  647  packages
+  648  go build golang.go 
+  649  sudo go build golang
+  650  sudo go build golang.go 
+  651  sudo nano build.sh
+  652  sudo ./build.sh 
+  653  sudo nano build.sh
+  654  sudo ./build.sh 
+  655  clear
+  656  sudo youtube-dl https://www.youtube.com/watch?v=hr4G2xJytrY
+  657  open pwd
+  658  clear
+  659  sudo ./build.sh 
+  660  clear
+  661  sudo ./build.sh 
+  662  cleart
+  663  clear
+  664  sudo go build ./http_server.go 
+  665  ./http_server 
+  666  sudo ./http_server 
+  667  youtube-dl https://www.youtube.com/watch?v=TFaOV5CbNnI
+  668  sudo ./build.sh 
+  669  sudo nano ./build.sh 
+  670  sudo ./build.sh 
+  671  clear
+  672  sudo ./build.sh 
+  673  clear
+  674  sudo ./build.sh 
+  675  sudo pip install --upgrade youtube-dl
+  676  sudo youtube-dl -U
+  677  sudo apt-get update youtube-dl
+  678  sudo apt-get update 
+  679  wget -O - https://yt-dl.org/downloads/latest/youtube-dl | sudo tee /usr/local/bin/youtube-dl >/dev/null
+  680  sudo chmod a+x /usr/local/bin/youtube-dl
+  681  sudo youtube-dl -U
+  682  youtube-dl --version
+  683  sudo youtube-dl https://www.youtube.com/watch?v=TFaOV5CbNnI
+  684  sudo youtube-dl https://www.youtube.com/watch?v=TFaOV5CbNnI -k
+  685  ls
+  686  sudo youtube-dl https://www.youtube.com/watch?v=TFaOV5CbNnI -k
+  687  ls
+  688  clear
+  689  sudo ./build.sh 
+  690  clear
+  691  sudo ./build.sh 
+  692  [H
+  693  sudo ./build.sh 
+  694  sf
+  695  sudo ./build.sh 
+  696  [H
+  697  sudo ./build.sh 
+  698  [H
+  699  sudo ./build.sh 
+  700  clear
+  701  sudo ./build.sh 
+  702  f
+  703  clear
+  704  sudo ./build.sh 
+  705  sudo reboot
+  706  lsof | grep log.fml
+  707  lsof | grep log
+  708  sudo ./build.sh 
+  709  cat /tmp/heaven.dat 
+  710  ls
+  711  sudo ./build.sh 
+  712  cd ..
+  713  ls
+  714  cat initrd.img
+  715  1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x65;1;9c1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x65;1;9c1;1;120;120;1;0x65;1;9c1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x65;1;9c
+  716  cat initrd.img
+  717  1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x65;1;9c1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x65;1;9c1;1;120;120;1;0x65;1;9c1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x1;1;120;120;1;0x65;1;9c
+  718  ls
+  719  clear
+  720  ls
+  721  sudo nano vmlinuz
+  722  cd home/
+  723  cd [
+  724  cd parrot-google-ctf/
+  725  clear
+  726  cd Documents/GO-Rob-Pike/GoLangGo/
+  727  clear
+  728  sudo ./build.sh 
+  729  cat /tmp/heaven.dat 
+  730  sudo ./build.sh 
+  731  cat /tmp/heaven.dat 
+  732  sudo nano golang.go 
+  733  sudo ./build.sh 
+  734  aszdzf
+  735  clear
+  736  sudo nano build.sh 
+  737  clear
+  738  sudo ./build.sh 
+  739  sudo nano build.sh 
+  740  sudo ./build.sh 
+  741  time ./golang
+  742  sudo time ./golang
+  743  time sudo ./golang
+  744  sudo ./build.sh 
+  745  sudo nano ./build.sh 
+  746  sudo ./build.sh
+  747  sudo nano ./build.sh 
+  748  sudo ./build.sh
+  749  time sudo ./build.sh 
+  750  cat /tmp/heaven2.dat 
+  751  time sudo ./build.sh 
+  752  cat /tmp/heaven.dat 
+  753  cat /tmp/heaven2.dat 
+  754  cat /tmp/heaven.dat 
+  755  time sudo ./build.sh 
+  756  cat /tmp/heaven.dat 
+  757  cat /tmp/heaven2.dat 
+  758  time sudo ./build.sh 
+  759  cat /tmp/heaven.dat 
+  760  time sudo ./build.sh 
+  761  cat log.fmllog 
+  762  clear
+  763  cat log.fmllog 
+  764  clear
+  765  sudo nano ./build.sh 
+  766  clear
+  767  time sudo ./build.sh
+  768  cat log.fmllog 
+  769  time sudo ./build.sh
+  770  cat log.fmllog 
+  771  time sudo ./build.sh
+  772  lsof | grep log.fmllog
+  773  lsof 
+  774  lsof | grep log
+  775  lsof | grep log.fml
+  776  lsof | grep log.f
+  777  time sudo ./build.sh
+  778  jhb
+  779  time sudo ./build.sh
+  780  sudo nano ./build.sh
+  781  time sudo ./build.sh
+  782  clear
+  783  time sudo ./build.sh 
+  784  sudo nano error_log.log
+  785  time sudo ./build.sh 
+  786  cat /tmp/dump.dat 
+  787  sudo nano /tmp/dump.dat 
+  788  fg
+  789  time sudo ./build.sh 
+  790  sudo rm -rf /tmp/dump.dat 
+  791  clear
+  792  time sudo ./build.sh 
+  793  sudo rm -rf /tmp/dump.dat 
+  794  clear
+  795  time sudo ./build.sh
+  796  clear
+  797  time sudo ./build.sh
+  798  g++ program.cpp -o a.out
+  799  g++ program.cpp -o a.out && ./a.out 
+  800  clear
+  801  g++ program.cpp -o a.out && ./a.out 
+  802  13456623456
+  803  236235623456
+  804  g++ program.cpp -o a.out && ./a.out 
+  805  23544624562456
+  806  2
+  807  4536
+  808  2456
+  809  24
+  810  5624
+  811  56
+  812  g++ program.cpp -o a.out && ./a.out 
+  813  time sudo ./build.sh 
+  814  sudo apt-update 
+  815  sudo apt-get update 
+  816  sudo go get -u github.com/go101/go101
+  817  ls
+  818  sudo rm -rf LINE\ KYOTO\ OPENING\ MOVIE-TFaOV5CbNnI.f137.mp4.part 
+  819  LS
+  820  ls
+  821  go101
+  822  bash
+  823  echo "Hello" > /tmp/lines
+  824  echo "Filter" >> /tmp/lines
+  825  echo "Jilter" >> /tmp/lines
+  826  cat /tmp/lines 
+  827  echo "jello" > /tmp/lines
+  828  cat /tmp/lines 
+  829  echo "Jilter" >> /tmp/lines
+  830  curl google.com
+  831  ./http_server 
+  832  bitcoind
+  833  sudo docker-compose up
+  834  sudo service mongod start
+  835  sudo service mongo start
+  836  sudo service mongo status
+  837  mongod
+  838  sudo mongod
+  839  sudo mongo
+  840  sudo apt-get install bitcoin-qt bitcoind
+  841  sudo mongo-servewr
+  842  sudo mongo-server
+  843  mongod
+  844  sudo docker-compose --version
+  845  bitcoind
+  846  bitcoind --help
+  847  bitcoind -v
+  848  ./docker-compose-Linux-x86_64 
+  849  sudo docker-compose up
+  850  sudo apt-get install –y docker-engine
+  851  sudo apt-get install –y docker-ce
+  852  sudo apt-get install docker-ce
+  853  sudo apt-get install docker-ee
+  854  sudo docker version
+  855  cd ..
+  856  cd usr/src/
+  857  ls
+  858  docker images
+  859  sudo docker images
+  860  curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key add -  
+  861  echo "deb http://apt.kubernetes.io/ kubernetes-xenial main” | sudo tee /etc/apt/sources.list.d/docker.list
+  862  echo "deb http://apt.kubernetes.io/ kubernetes-xenial main” | sudo tee /etc/apt/sources.list.d/docker.list
+  863  asd
+  864  curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key add - 
+  865  sudo curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key add -  
+  866  sudo su -
+  867  sudo docker build .
+  868  sudo docker-compose up 
+  869  sudo nano DockerFile
+  870  sudo chmod a+x *
+  871  sudo chmod a+rwx *
+  872  sudo docker build -t "Ubuntu-Web-Server" 
+  873  sudo docker build -t "ubuntu-Web-Server" 
+  874  sudo docker build -t "ubuntu-web-server" 
+  875  sudo docker build -t "ubuntu-web-server" . 
+  876  sudo mv DockerFile Dockerfile
+  877  sudo docker build -t "ubuntu-web-server" . 
+  878  Y
+  879  sudo docker build -t "ubuntu-web-server" . 
+  880  sudo docker-compose up
+  881  docker swarm init
+  882  sudo docker swarm init
+  883  sudo docker-compose up
+  884  sudo docker stack deploy
+  885  sudo docker-compose up
+  886  sudo docker-compose up .
+  887  sudo docker-compose up 
+  888  sudo docker-compose build
+  889  sudo docker-compose up
+  890  sudo npm init
+  891  node bitcoind-process.js 
+  892  sudo npm install
+  893  npm i npm
+  894  sudo npm i npm
+  895  sudo npm install
+  896  node bitcoind-process.js 
+  897  sudo docker-compose build 
+  898  sudo docker-compose up
+  899  sudo docker-compose build
+  900  sudo docker-compose up
+  901  sudo docker-compose build
+  902  sudo docker-compose up
+  903  sudo docker-compose build
+  904  sudo docker-compose up
+  905  sudo docker-compose build
+  906  sudo docker-compose up
+  907  sudo service mongod stop
+  908  sudo mongod
+  909  ps wuax | grep mongo
+  910  sudo killall -15 mongod
+  911  sudo killall -15 mongodb
+  912  sudo killall -15 mongod
+  913  sudo docker-compose up
+  914  cd ..
+  915  cd /usr/src/
+  916  ls
+  917  sudo docker-compose build 
+  918  sudo killall -15 mongod
+  919  sudo docker-compose up
+  920  sudo docker-compose build
+  921  sudo killall -15 mongod
+  922  sudo docker-compose up
+  923  sudo killall -15 mongod
+  924  sudo docker-compose build
+  925  sudo killall -15 mongod
+  926  sudo docker-compose up
+  927  sudo docker-compose build
+  928  sudo docker-compose up
+  929  sudo docker-compose build
+  930  sudo docker-compose up
+  931  sudo docker-compose build
+  932  sudo docker-compose up
+  933  sudo docker-compose build
+  934  sudo docker-compose up
+  935  sudo npm init
+  936  sudo docker-compose build docker-compose.yml 
+  937  sudo docker-compose build
+  938  sudo killall -15 mongod
+  939  sudo docker-compose up
+  940  sudo docker-compose build
+  941  sudo killall -15 mongod
+  942  sudo docker-compose up
+  943  sudo docker-compose build
+  944  sudo killall -15 mongod
+  945  sudo docker-compose up
+  946  sudo docker-compose build
+  947  sudo docker-compose up
+  948  sudo docker-compose build
+  949  sudo killall -15 mongod
+  950  sudo docker-compose up
+  951  sudo killall -15 mongod
+  952  sudo docker-compose build
+  953  sudo docker-compose up
+  954  sudo docker-compose build
+  955  sudo docker-compose up
+  956  sudo docker-compose build
+  957  sudo docker-compose up
+  958  sudo docker-compose build
+  959  sudo docker-compose up
+  960  sudo docker-compose up | grep web_1
+  961  sudo docker-compose build
+  962  sudo docker-compose up
+  963  sudo docker-compose build
+  964  sudo docker-compose up
+  965  sudo docker-compose build
+  966  sudo docker-compose up
+  967  git
+  968  git add .
+  969  sudo git add .
+  970  git status 
+  971  sudo git pull origin master 
+  972  sudo git status
+  973  sudo git pull origin master 
+  974  ls -al
+  975  sudo git pull origin master 
+  976  sudo git status
+  977  sudo git add .
+  978  sudo docker-compose build
+  979  sudo docker-compose up
+  980  sudo docker-compose up | grep node-processing_1
+  981  sudo docker-compose up --tail="10"
+  982  sudo docker-compose build
+  983  sudo docker-compose up
+  984  sudo docker-compose build
+  985  sudo docker-compose up
+  986  sudo docker-compose build
+  987  sudo docker-compose up
+  988  sudo docker-compose build
+  989  sudo docker-compose up
+  990  sudo docker-compose build
+  991  sudo docker-compose up
+  992  sudo docker-compose build
+  993  sudo docker-compose up
+  994  sudo docker-compose down
+  995  sudo docker-compose build
+  996  sudo docker-compose up
+  997  sudo docker-compose down
+  998  sudo chmod a+rwx *
+  999  sudo tar -zcvf kraken-code.tgz . 
+ 1000  sudo chmod a+rwx *
+ 1001  sudo tar -zcvf kraken-code.tgz 
+ 1002  sudo tar -zcvf kraken-code.tgz .
+ 1003  sudo zip kraken-code.tgz .
+ 1004  sudo zip kraken-code.zip 
+ 1005  sudo zip kraken-code.zip bitcoind_txn_process.js docker-compose.yaml Dockerfile package.json RUN.md README.md transactions-1.json transactions-2.json 
+ 1006  sudo zip kraken-code.zip 
+ 1007  sudo zip kraken-code.zip bitcoind_txn_process.js docker-compose.yaml Dockerfile package.json RUN.md README.md transactions-1.json transactions-2.json 
+ 1008  sudo rm -rf kraken-code.tgz 
+ 1009  sudo tar -zcvf kraken-code.tgz Dockerfile .
+ 1010  git
+ 1011  sudo git init
+ 1012  sudo git add .
+ 1013  sudo git commit -am "Init"
+ 1014  sudo rm -rf untitled\ folder/
+ 1015  sudo docker-compose build
+ 1016  sudo docker-compose up
+ 1017  sudo killall -15 mongod
+ 1018  sudo docker-compose up
+ 1019  sudo docker-compose build
+ 1020  sudo killall -15 mongod
+ 1021  sudo docker-compose up
+ 1022  sudo docker-compose build
+ 1023  sudo killall -15 mongod
+ 1024  sudo docker-compose up
+ 1025  sudo docker-compose build
+ 1026  sudo killall -15 mongod
+ 1027  sudo docker-compose up
+ 1028  sudo docker-compose build
+ 1029  sudo killall -15 mongod
+ 1030  sudo docker-compose up
+ 1031  sudo docker-compose build
+ 1032  sudo docker-compose up
+ 1033  tail 
+ 1034  tail --help
+ 1035  sudo docker-compose up | tail
+ 1036  sudo docker-compose up
+ 1037  sudo docker-compose build
+ 1038  sudo killall -15 mongod
+ 1039  sudo docker-compose up
+ 1040  sudo docker-compose down
+ 1041  sudo docker-compose build
+ 1042  sudo killall -15 mongod
+ 1043  sudo docker-compose up
+ 1044  sudo docker-compose up | tail
+ 1045  sudo docker-compose up > outfile
+ 1046  sudo docker-compose down
+ 1047  sudo docker-compose up > outfile
+ 1048  ls
+ 1049  sudo nano outfile 
+ 1050  sudo docker-compose up  outfile
+ 1051  exit
+ 1052  sudo docker-compose build
+ 1053  sudo docker-compose up
+ 1054  sudo docker-compose build
+ 1055  sudo docker-compose up
+ 1056  sudo docker-compose build
+ 1057  sudo docker-compose up
+ 1058  sudo docker-compose build
+ 1059  sudo docker-compose up
+ 1060  sudo docker-compose build
+ 1061  sudo docker-compose up
+ 1062  sudo docker-compose build
+ 1063  sudo docker-compose up
+ 1064  sudo docker-compose build
+ 1065  sudo docker-compose up
+ 1066  sudo docker-compose build
+ 1067  sudo docker-compose up
+ 1068  sudo docker-compose up | grep (Deposited|Smallest|Largest) > outfile
+ 1069  sudo docker-compose up | grep [Deposited|Smallest|Largest] > outfile
+ 1070  sudo nano outfile 
+ 1071  sudo docker-compose up | grep Deposited
+ 1072  sudo docker-compose up
+ 1073  sudo docker-compose down
+ 1074  sudo docker-compose up
+ 1075  atom
+ 1076  sudo docker-compose down
+ 1077  sudo docker-compose build
+ 1078  sudo docker-compose up
+ 1079  sudo docker-compose down
+ 1080  sudo docker-compose build
+ 1081  sudo docker-compose up
+ 1082  sudo docker-compose build
+ 1083  sudo docker-compose up
+ 1084  sudo docker-compose build
+ 1085  sudo docker-compose up
+ 1086  sudo docker-compose down
+ 1087  sudo docker-compose build
+ 1088  sudo docker-compose up
+ 1089  sudo docker-compose down
+ 1090  sudo docker-compose build
+ 1091  sudo docker-compose up
+ 1092  sudo docker-compose build
+ 1093  sudo docker-compose up
+ 1094  sudo docker-compose down
+ 1095  sudo nano build.sh
+ 1096  sudo chmod a+rwx *
+ 1097  sudo ./build.sh 
+ 1098  fg
+ 1099  sudo nano build.sh
+ 1100  sudo ./build.sh
+ 1101  sudo docker-compose build
+ 1102  Y
+ 1103  sudo docker-compose build
+ 1104  sudo git push origin master
+ 1105  sudo git add .
+ 1106  sudo git commit -am "All"
+ 1107  sudo git add .
+ 1108  sudo git push origin master
+ 1109  sudo git add .
+ 1110  sudo git commit -am "All"
+ 1111  sudo git push origin master
+ 1112  sudo git add .
+ 1113  sudo git commit -am "All"
+ 1114  sudo git push origin master
+ 1115  ]
+ 1116  sudo tar -xzvf jdk-8u191-linux-x64.tar.gz 
+ 1117  sudo tar -xzvf jre-8u191-linux-x64.tar.gz 
+ 1118  javac
+ 1119  java
+ 1120  javac --version
+ 1121  java --version
+ 1122  sudo chmod a+rwx *
+ 1123  ls
+ 1124  sudo javac firstProgram.cpp 
+ 1125  sudo javac firstProgram.java
+ 1126  sudo rm -rf hack_os_debug/
+ 1127  uname
+ 1128  sudo java firstProgram
+ 1129  sudo javac firstProgram.java 
+ 1130  sudo java firstProgram
+ 1131  ls
+ 1132  cd ..
+ 1133  ls
+ 1134  find
+ 1135  find bitcoin
+ 1136  find | grep bitcoin
+ 1137  cd home/
+ 1138  cd parrot-google-ctf/
+ 1139  ls
+ 1140  cd .bitcoin/
+ 1141  ls
+ 1142  sudo nano bitcoind.conf
+ 1143  sudo nano bitcoin.conf
+ 1144  lks
+ 1145  ls
+ 1146  bitcoind
+ 1147  sudo nano bitcoin.conf
+ 1148  sudo nano btc_go.go
+ 1149  sudo go run btc_go.go
+ 1150  bitcoind
+ 1151  bitcoin-cli getinfo
+ 1152  bitcoin-cli getblockchaininfo
+ 1153  clear
+ 1154  bitcoin-cli getblockchaininfo
+ 1155  clear
+ 1156  bitcoin-cli getblockchaininfo
+ 1157  bitcoin-cli listsinceblock
+ 1158  bitcoin-cli signrawtransaction
+ 1159  bitcoin-cli getnewaddress
+ 1160  bitcoin-cli getnewaddress sadf
+ 1161  bitcoin-cli getnewaddress 74681961896f81gv68a1g684as61g6a4g6as1gf6984gf61as69gd1a9dsf4g6as1gv96as4gdf
+ 1162  bitcoin-cli getbalance
+ 1163  google
+ 1164  google-chrome
+ 1165  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+ 1166  google-chrome
+ 1167  sudo google-chrome
+ 1168  sudo su -
+ 1169  sudo dpkg -r google-chrome-stable.
+ 1170  sudo dpkg -r google-chrome
+ 1171  sudo dpkg -r google-*
+ 1172  google-* | more
+ 1173  google-* 
+ 1174  ps aux | grep google-* 
+ 1175  htop
+ 1176  htop | grep chrome
+ 1177  sudo dpkg -r google-chrome-stable
+ 1178  sudo dpkg -r google-chrome-stable --purge
+ 1179  sudo dpkg -r --purge google-chrome-stable
+ 1180  sudo dpkg --purge google-chrome-stable
+ 1181  sudo rm -rf /opt/google/chrome/
+ 1182  sudo dpkg --purge google-chrome-stable
+ 1183  cd Do
+ 1184  cd Downloads/
+ 1185  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 1186  google-chrome
+ 1187  alias fgc='nohup firejail --noroot google-chrome >/dev/null 2>&1 &'
+ 1188  google-chrome-stable 
+ 1189  sudo dpkg --purge google-chrome-stable
+ 1190  sudo dpkg --purge google-chrome
+ 1191  google-chrome
+ 1192  google-chrome-stable 
+ 1193  cd ..
+ 1194  cd Downloads/
+ 1195  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 1196  ps aux
+ 1197  ps aux | grep bitc*
+ 1198  ps aux | grep bitcoin]
+ 1199  ps aux | grep bitcoin
+ 1200  ps aux | grep b*
+ 1201  sudo killall 15 google*
+ 1202  sudo killall 15 google
+ 1203  sudo killall 15 google-c
+ 1204  sudo killall 15 google-c*
+ 1205  sudo killall 15 goo*
+ 1206  sudo firecfg
+ 1207  firejail google-chrome
+ 1208  sudo firecfg --clean
+ 1209  sudo firecfg --clean + firejail google-chrome
+ 1210  sudo firecfg --clean && firejail google-chrome
+ 1211  firejail --debug chromium
+ 1212  sudo firecfg --clean && firejail google-chrome
+ 1213  sudo firecfg --clean && firejail google-chrome --net
+ 1214  sudo apt-get update
+ 1215  sudo apt-get install google-chrome
+ 1216  sudo apt-get install google-*
+ 1217  sudo apt-get install google-cloud-print-connector 
+ 1218  sudo apt-get install google-chrome-stable 
+ 1219  sudo apt autoremove
+ 1220  sudo apt-get install google-chrome-unstable 
+ 1221  sudo apt-get install google-chrome-beta 
+ 1222  exit
+ 1223  sudo npm install bitcoin -g
+ 1224  sudo npm install web3 -g
+ 1225  sudo dpkg -i Ethereum-Wallet-linux32-0-11-1.deb 
+ 1226  sudo dpkg -i Ethereum-Wallet-linux64-0-11-1.deb 
+ 1227  sudo apt-get install libappindicator1
+ 1228  sudo npm install remix-ide -g
+ 1229  sudo su -
+ 1230  google-chrome
+ 1231  sudo rm -rf google-chrome-stable_current_amd64.deb 
+ 1232  sudo dpkg -i Ethereum-Wallet-linux64-0-11-1.deb 
+ 1233  apt-get -f install
+ 1234  sudo apt-get -f install
+ 1235  sudo dpkg -i Ethereum-Wallet-linux64-0-11-1.deb 
+ 1236  sudo dpkg -i Mist-linux64-0-11-1.deb 
+ 1237  sudo apt-get install ntp
+ 1238  sudo apt-get purge ntp
+ 1239  sudo apt-get install ntp
+ 1240  sudo grub2-update
+ 1241  sudo grub-update
+ 1242  sudo update-grub
+ 1243  sudo update-initramfs -u
+ 1244  sudo java -jar logisim-generic-2.7.1.jar 
+ 1245  bitcoind -testnet -daemon
+ 1246  src/bitcoin-cli -testnet listunspent
+ 1247  bitcoin-cli -testnet listunspent
+ 1248  bitcoin-cli -generateadress
+ 1249  bitcoin-cli -generateadress zxdcf
+ 1250  bitcoind
+ 1251  bitcoind --status
+ 1252  sudo bitcoind --status
+ 1253  bitcoin-cli getrawtransaction dde767f9ed73f9eaaaca562bac644b2e8d5e81882dac10cc563d6db86926564a
+ 1254  sudo bitcoind
+ 1255  cd .bitcoin/
+ 1256  ls
+ 1257  sudo nano program.cpp
+ 1258  g++ program.cpp -o program.out
+ 1259  sudo nano program.cpp
+ 1260  g++ program.cpp -o program.out
+ 1261  sudo nano program.cpp
+ 1262  g++ program.cpp -o program.out
+ 1263  ./program.out 
+ 1264  sudo nano program.cpp
+ 1265  g++ program.cpp -o program.out
+ 1266  ./program.out 
+ 1267  ./program.out
+ 1268  sudo nano program.cpp
+ 1269  g++ program.cpp -o program.out
+ 1270  ./program.out
+ 1271  sudo nano program.cpp
+ 1272  g++ program.cpp -o program.out
+ 1273  ./program.out
+ 1274  sudo nano program.cpp
+ 1275  ./program.out
+ 1276  sudo nano program.cpp
+ 1277  g++ program.cpp -o program.out
+ 1278  ./program.out
+ 1279  sudo nano program.cpp
+ 1280  g++ program.cpp -o program.out
+ 1281  ./program.out
+ 1282  sudo nano program.cpp
+ 1283  g++ program.cpp -o program.out
+ 1284  ./program.out
+ 1285  sudo tar -xzvf vanitygen-0.21.tar.gz 
+ 1286  cd vanitygen-0.21/
+ 1287  sudo ./configure
+ 1288  configure
+ 1289  sudo make
+ 1290  bitcoin-core
+ 1291  bitcoin-qt 
+ 1292  sudo nano app.js
+ 1293  sudo npm init
+ 1294  sudo npm install --save mongo
+ 1295  sudo nano package.json 
+ 1296  npm install mongo --save 
+ 1297  sudo npm i npm
+ 1298  sudo npm install mongo --save 
+ 1299  sudo npm install monk --save 
+ 1300  sudo npm install socket.io --save
+ 1301  sudo npm install express --save
+ 1302  sudo chmod a+rwx *
+ 1303  find node 
+ 1304  find | grep node 
+ 1305  sudo chmod a+rwx *
+ 1306  sudo npm install ws --save
+ 1307  node client.js
+ 1308  .bitcoin/
+ 1309  cd .bitcoin/
+ 1310  ls
+ 1311  atom bitcoin.conf 
+ 1312  ls
+ 1313  sudo nano debug.log 
+ 1314  atom bitcoin.conf 
+ 1315  cd blocks/
+ 1316  ls
+ 1317  cd ..
+ 1318  cd testnet3/
+ 1319  ls
+ 1320  cd ..
+ 1321  cd wallets/
+ 1322  ls
+ 1323  nano db.log 
+ 1324  nano wallet.dat 
+ 1325  exit
+ 1326  sudo ./build.sh 
+ 1327  sudo killall 15 mongo
+ 1328  sudo killall -15 mongo
+ 1329  sudo killall -15 mongod
+ 1330  sudo killall -15 mongodb
+ 1331  sudo ./build.sh 
+ 1332  sudo killall 15 mongo
+ 1333  sudo killall -15 mongod
+ 1334  sudo ./build.sh
+ 1335  sudo npm i request --save
+ 1336  sudo npm install --save rpc-websockets
+ 1337  sudo npm i node-bitcoin-rpc --save
+ 1338  bitcoind
+ 1339  sudo ./build.sh 
+ 1340  sudo npm install --save rpc-websockets
+ 1341  sudo npm i node-bitcoin-rpc --save
+ 1342  sudo npm i request --save
+ 1343  sudo killall -15 mongod
+ 1344  clear
+ 1345  sudo ./build.sh 
+ 1346  sudo wiresahrk
+ 1347  bitcoin-cli getrawmempool true
+ 1348  bitcoin-cli generatetoaddress
+ 1349  bitcoin-cli getbestblockhash
+ 1350  bitcoin-cli getrawtransaction dde767f9ed73f9eaaaca562bac644b2e8d5e81882dac10cc563d6db86926564a
+ 1351  atom
+ 1352  cd ..
+ 1353  ls
+ 1354  cd ..
+ 1355  clear
+ 1356  I am ujinjdasnfn jlknbsadf
+ 1357  cd ..
+ 1358  clear
+ 1359  sudo javac simple_interest.java
+ 1360  java SimpleInterest 
+ 1361  sudo rm -rf jdk1.8.0_191/
+ 1362  sudo rm -rf jre1.8.0_191/
+ 1363  sudo rm -rf vanitygen-0.21/q
+ 1364  sudo rm -rf vanitygen-0.21/
+ 1365  sudo rm -rf google-ctf/
+ 1366  sudo rm -rf A
+ 1367  sudo rm -rf AppDev/
+ 1368  sudo apt-get update
+ 1369  sudo apt-get clean
+ 1370  sudo apt-get cache
+ 1371  sudo apt-get cache cleac
+ 1372  sudo apt-get cache clean
+ 1373  sudo apt-get clean
+ 1374  sudo apt-get update
+ 1375  sudo apt-get full-upgrade
+ 1376  sudo apt-get update
+ 1377  sudo update-initramfs -u
+ 1378  sudo update-grub
+ 1379  sudo reboot
+ 1380  sudo apt-get install nginx
+ 1381  sudo apt autoremove
+ 1382  sudo ufw app list
+ 1383  sudo ufw allow 'Nginx HTTP'
+ 1384  firewall
+ 1385  u
+ 1386  sudo apt-get install ufw
+ 1387  sudo ufw status
+ 1388  sudo nano /etc/default/ufw
+ 1389  sudo ufw enable
+ 1390  sudo ufw app list
+ 1391  sudo ufw allow 'Nginx HTTP'
+ 1392  sudo ufw status
+ 1393  systemctl status nginx
+ 1394  sudo systemctl start nginx
+ 1395  sudo systemctl restart nginx
+ 1396  history
+ 1397  history > commands_parrot_os.txt
