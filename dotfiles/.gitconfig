@@ -1,0 +1,5 @@
+[user]
+	email = shekharhiran@hotmail.com
+	name = SpawnTree
+[credential]
+	helper = cache --timeout=819200
