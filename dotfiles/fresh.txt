@@ -1,0 +1,536 @@
+clear
+chsh -s /bin/zsh
+clear
+sudo nano ~/.zshrc
+exit
+clear
+sudo vim code.cpp
+clear
+sudo ./script.sh
+clear
+chsh
+exit
+chsh
+chsh -s /bin/zsh root
+sudo chsh -s /bin/zsh root
+sudo chsh -s /bin/zsh 
+clear
+clear
+sudo chsh --shell=/bin/bash $USER 
+sudo ./script.sh
+clear
+exit
+sudo ./script.sh
+env sh /tmp/Microsoft-MIEngine-Cmd-iv1ecwd3.uqa 
+env sh /tmp/Microsoft-MIEngine-Cmd-c0ezswzx.hv5 
+sudo nano input.in
+tmux
+exit
+clear
+sudo nano input.in
+echo "Hello World"
+echo "Did you know?"
+echo "Only the last command won't be executed"
+echo "You can execute multiple commands"
+echo "workspaceFolder: /home/turing/Documents\nworkspaceFolderBasename: Documents\nfile: /home/turing/Documents/code.cpp\nrelativeFile: code.cpp\nfileBasename: code.cpp\nfileBasenameNoExtension: code\nfileDirname: /home/turing/Documents\nfileExtname: .cpp\ncwd: /home/turing/Documents\nlineNumber: 16"
+Press enter to run me
+screen -D -R demo_persistent
+sudo ./script.sh
+echo "Hello World"
+echo "Did you know?"
+echo "Only the last command won't be executed"
+echo "You can execute multiple commands"
+echo "workspaceFolder: /home/turing/Documents\nworkspaceFolderBasename: Documents\nfile: /home/turing/Documents/code.cpp\nrelativeFile: code.cpp\nfileBasename: code.cpp\nfileBasenameNoExtension: code\nfileDirname: /home/turing/Documents\nfileExtname: .cpp\ncwd: /home/turing/Documents\nlineNumber: 7"
+screen -D -R demo_persistent
+sudo ./script.sh
+echo "Hello World"
+sudo apt-get install screeen
+sudo apt-get install screen
+screen
+screen -D
+screen -D -R demo_persistent
+sudo ./script.sh
+screen -D -R demo_persistent
+sudo git config --global credential.helper 'cache --timeout=819200'
+cleqr
+clear
+sudo ./script.sh
+sudo ./scR
+sudo ./script.sh
+ls -al
+clear
+sudo reboot
+clear
+sudo vim code.cpp
+clear
+xrandr -o normal
+exit
+xrandr -o normal
+clear
+ubuntu-drivers devices
+sudo ubuntu-drivers autoinstall
+sudo apt-get update
+sudo apt-get upgrade
+sudo reboot
+sudo apt get update
+sudo apt-get update
+sudo nano ~/.zshrc
+clear
+update
+exit
+update
+upgrade
+grub-update
+initrfs
+clear
+exit
+clear
+update
+upgrade
+clear
+sudo update 
+update
+clear
+update
+upgrade
+clear
+exit
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+sudo git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+sudo nano ~/.zshrc
+exit
+clear
+cd Downloads
+ls -al
+sudo mv Hack\ Regular\ Nerd\ Font\ Complete\ Mono.ttf ~/.local/share/fonts/
+clear
+sudo nano ~/.zshrc
+exit
+sudo nano ~/.zshrc
+exit
+sudo nano ~/.zshrc
+exit
+sudo nano ~/.zshrc
+exit
+clear
+sudo nano ~/.zshrc
+fg
+exit
+clear
+exit
+clear
+sudo tmux -2
+clear
+exit
+locate powerline.conf
+sudo apt-get install powerline
+locate powerline.conf
+sudo nano ~/.tmux.comf
+sudo tmux -2
+exit
+sudo nano ~/.zshrc 
+exit
+sudo tmux -2
+exit
+sudo pip install git+git://github.com/Lokaltog/powerline
+sudo apt-get install python-pip
+sudo pip install git+git://github.com/Lokaltog/powerline
+locate powerline.conf
+sudo git clone https://github.com/gpakosz/.tmux.git
+ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
+exitr
+exit
+sudo tmux -2
+sudo dnf install tmux-powerline
+sudo install tmux-powerline
+sudo apt-get install tmux-powerline
+clear
+exit
+cleart
+clear
+git clone https://github.com/erikw/tmux-powerline.git
+pip install --user git+git://github.com/powerline/powerline
+wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf\nwget https://github.com/powerline/powerline/raw/develop/font/10-powerline-symbols.conf
+mv PowerlineSymbols.otf ~/.local/share/fonts/
+fc-cache -vf ~/.local/share/fonts/
+exit
+locate poerline
+locate powerline
+locate powerline.shj
+locate powerline.sh
+clear
+fc-cache -vf ~/.local/share/fonts/
+pip install --user powerline-status
+locate powerline.sh
+clear
+cd ~/.local/lib/python2.7/site-packages/powerline_status-2.7.dist-info
+cd ..
+ls -al
+cd ..
+ls -al
+cd site-packages
+cd powerline
+ls -al
+sudo nano ~/.zshrc
+exit
+sudo nano ~/.bashrc 
+sudo nano ~/.vimrc
+sudo nano ~/.tmux.conf
+exit
+sudo tmux -2
+exit
+sudo rm -rf ~/.tmux.conf
+sudo nano ~/.tmux.conf
+exit
+sudo tmuc -2
+sudo tmux -2
+xit
+exit
+sudo apt-get purge tmux
+sudo rm -rf ~/.tmux
+sudo apt-get purge tmux
+clear
+sudo apt-get install tmux
+sudo nano ~/.tmux.conf
+cd ~/.tmux
+ls -al
+sudo tmux -2
+exit
+sudo rm -rf .tmux.co*
+ls -al
+sudo apt-get purge tmux
+sudo vim 
+sudo tmux -2
+la -al
+sudo apt-get install tmux
+ls -al
+sudo tmux -2
+exit
+sudo nano ~/.tmux.conf
+exit
+sudo tmux -2
+exit
+locate powerline.conf
+clear
+sudo locate powerline.conf
+clewar
+clear
+exit
+sudo nano /usr/lib/python3.7/site-packages/powerline/bindings/tmux/powerline.conf
+sudo pip install powerline-status
+git clone https://github.com/powerline/fonts.git && cd fonts && sh ./install.sh
+sudo nano ~/.tmux.conf
+sudo nano /usr/local/lib/python2.7/dist-packages/powerline/bindings/tmux/powerline.conf
+sudo tmux -2
+exit
+locate powerline.conf
+locate unistd.h
+clear
+cd ~/.local/lib/python2.7/site-packages/powerline/bindings/tmux
+ls -al
+tmux source
+tmux source ~/.tmux.conf
+clear
+tmux kill-server
+sudo tmux kill-server
+clear
+sudo nano ~/.tmux.conf
+exit
+sudo nano ~/.tmux.conf
+tmux -2
+clear
+exit
+sudo nano ~/.tmux.conf
+sudo tmux kill-server
+sudo tmux kill-server\\nsudo tmux kill-server
+sudo killall tmux*
+exit
+sudo tmux -2
+exit
+sudo nano ~/.vimrc
+sudo nano ~/.tmux.conf
+wget https://github.com/Lokaltog/powerline/raw/develop/font/PowerlineSymbols.otf https://github.com/Lokaltog/powerline/raw/develop/font/10-powerline-symbols.conf\nmkdir -p ~/.fonts/ && mv PowerlineSymbols.otf ~/.fonts/\nfc-cache -vf ~/.fonts\nmkdir -p ~/.config/fontconfig/conf.d/ && mv 10-powerline-symbols.conf ~/.config/fontconfig/conf.d/wget https://github.com/Lokaltog/powerline/raw/develop/font/PowerlineSymbols.otf https://github.com/Lokaltog/powerline/raw/develop/font/10-powerline-symbols.conf\nmkdir -p ~/.fonts/ && mv PowerlineSymbols.otf ~/.fonts/\nfc-cache -vf ~/.fonts\nmkdir -p ~/.config/fontconfig/conf.d/ && mv 10-powerline-symbols.conf ~/.config/fontconfig/conf.d/
+sudo apt-get install powerline
+tmux -2
+nexit
+sudo nano ~/.tmux.conf
+exit
+sudo tmux -2
+exit
+sudo nano ~/.tmux.conf
+exit
+sudo tmux -2
+EXIT
+exit
+exitr
+exit
+sudo rm -rf ~/.tmux.conf
+clear
+sudo tmux -2
+exit
+sudo nano ~/.tmux.conf
+exit
+sudo tmux -2
+exit
+powerline-daemon
+cdlear
+clear
+cd
+sudo git clone https://github.com/gpakosz/.tmux.git
+sudo ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
+sudo apt-get install powerline-status
+sudo apt-get install powerline-*
+sudo apt-get install powerline*
+sudo apt-get install powerline
+exit
+sudo tmux -2
+tmux source-file ~/.tmux.conf
+clear
+screen
+screen -D
+clear
+sudo nano /usr/share/tmux/powerline.conf
+sudo tmux -2
+clear
+sudo apt-get install powerline-fonts
+sudo apt-get install powerline-font
+pip install powerline-fonts
+exit
+sudo tmux -2
+exit
+clear
+exit
+clear
+sudo ./script.sh
+clear
+cvlear
+clear
+sudo nano ~/.zshrc
+exit
+clear
+sudo nano ~/.zshrc
+exit
+clear
+clkear
+clear
+date
+sudo nano ~/.zshrc
+exit
+clear
+cd Documents/
+clear
+exit
+date
+clear
+sudo nano ./script.sh
+clear
+sudo ./script.sh
+sudo vim input.in
+clear
+sudo nano ~/.zshrc
+clear
+exit
+clear
+sudo nano ~/.zshrc
+clear
+sudo nano ~/.zshrc
+exit
+sudo vim input.in
+clear
+sudo nano ~/.vimrc
+clear
+sudo vim input.in
+sudo nano ./script.sh
+sudo ./script.sh
+sudo git config --global credential.helper 'cache --timeout=8192000'
+sudo /.sc
+sudo ./script.sh
+clear
+cleasr
+clear
+sudo ./script.sh
+sudo vim input.in
+clear
+echo 
+clear
+sudo nano pswd
+clear
+sudo git config --global credential.helper 'cache --timeout=8192000'
+sudo ./script.sh
+clear
+cd Documents
+clear
+sudo git config --global credential.helper 'cache --timeout=819200'
+clear
+sudo git config --global credential.helper 'cache --timeout=819200'
+sudo git push origin master
+clear
+env sh /tmp/Microsoft-MIEngine-Cmd-enpxvv09.eq8 
+clear
+env sh /tmp/Microsoft-MIEngine-Cmd-0tw93w1f.iqj 
+env sh /tmp/Microsoft-MIEngine-Cmd-de3jdr8a.8jb 
+env sh /tmp/Microsoft-MIEngine-Cmd-cwzxfni7.itw 
+env sh /tmp/Microsoft-MIEngine-Cmd-fdfm9r6h.18e 
+env sh /tmp/Microsoft-MIEngine-Cmd-enxwj20n.2uj 
+env sh /tmp/Microsoft-MIEngine-Cmd-o96o3vwb.ri6 
+env sh /tmp/Microsoft-MIEngine-Cmd-ydoqpn0n.t0t 
+env sh /tmp/Microsoft-MIEngine-Cmd-xxrlcl0e.92b 
+clear
+sudo tar -xzvf CLion-2018.3.4.tar.gz
+cd clion-2018.3.4
+sudo ./configure
+sudo configure
+make
+sh /opt/clion-*/bin/clion.sh
+cd ..
+sh /opt/clion-*/bin/clion.sh
+cd clion-2018.3.4/bin
+sudo ./clion.sh
+sudo tar -xzvf eclipse-cpp-kepler-SR2-linux-gtk-x86_64.tar.gz
+cd eclipse
+sudo ./configure
+sudo apt-get install sublime
+sudo apt-get install sublime-text
+snap install sublime-text
+snap install sublime-text --classics
+snap install sublime-text --classic
+clear
+exit
+wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+sudo apt-get install apt-transport-https\n
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+sudo apt-get update\nsudo apt-get install sublime-text
+sublime-text
+sudo apt-get install sublime-text
+clear
+sudo apt-get install codeblocks
+clear
+ls -al
+sudo nano CodeChef.cbp
+sudo ./script.sh
+sudo mv code.cpp io_practice.cpp
+sudo mv io_practice.cpp code.cpp
+sudo cp io_practice.cpp code.cpp
+sudo cp code.cpp code_block_io.cpp
+sudo cp code_block_io.cpp ~/CodeChef/code_block_io.cpp
+sudo cp code.cpp ~/CodeChef/code.cpp
+sudo cp code.cpp ~/CodeChef/main.cpp
+cd CodeChef
+clear
+cd ..
+cd CodeChef
+clear
+sudo git init
+ls -al
+sudo rm -rf input.in.save CodeChef.depend CodeChef.layout.save main.cpp.save main.h ./obj 
+ls -al
+clear
+cd ..
+cd Documents/clear
+clear
+cd Documents
+clear
+sudo cp ./script.sh ~/CodeChef/script.sh
+sudo nano ~/CodeChef/script.sh
+clear
+cd ..
+cd CodeChef
+clear
+sudo cp main.cpp ~/Documents/code.cpp
+sudo ./script.sh
+sudo nano ./script.sh
+sudo ./script.sh
+sudo nano ./script.sh
+exit
+clear
+cd Documents
+sudo nano ./script.sh
+cd .
+cd ..
+cd CodeChef
+sudo ./script.sh
+sudo nano ./script.sh
+clear
+sudo tmux -2
+exit
+clear
+sudo nano ./script.sh
+sudo ./script.sh
+clear
+sudo nano ~/Documents/script.sh
+sudo nano /script.sh
+sudo nano ./script.sh
+sudo ./script.sh
+sudo chmod a+rwx *
+sudo ./script.sh
+sudo chmod a+rwx *
+clear
+sudo chmod a+rwx *
+exit
+sudo nano ./script.sh
+sudo nano ./.gitignore
+sudo nano .gitignore
+sudo ./script.sh
+sudo nano ./script.sh
+sudo ./script.sh
+exit
+sudo chmod a+rwx *
+sudo chmod a+rwx .gitignore
+clear
+sudo nano .gitignore
+clear
+sudo ./script.sh
+ls -al
+sudo rm -rf .git
+ls -al
+exit
+sudo mv .git ~/CCDSAP/.git
+clear
+sudo ./script.sh
+sudo vim input.in
+sudo vim output.txt
+exit
+sudo chmod a+rwx *
+clewar
+clear
+sudo chmod a+rwx .git
+clear
+exit
+cd CCDSAP
+CLEAR
+clear
+sudo ./script.sh
+sudo git config credential.helper 'cache --timeout=3600000'
+clear
+sudo ./script.sh
+sudo nano ./script.sh
+sudo ./script.sh
+sudo nano ./script.sh
+sudo ./script.sh
+sudo nano ./script.sh
+sudo ./script.sh
+echo -e "\0033[37;40m###############\0033[0m"
+echo -e "\0033[30;47m###############\0033[0m"
+echo -e "\0033[30;47mProgram Output is as : \0033[0m"
+sudo gedit ./script.sh
+sudo ./script.sh
+sudo gedit ./script.sh
+clear
+sudo ./script.sh
+clear
+sudo ./script.sh
+clear
+sudo ./script.sh
+clear
+sudo apt-get update -y &&  sudo apt-get upgrade -y &&  sudo apt-get dist-upgrade -y &&  sudo apt-get install build-essential software-properties-common -y &&  sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y &&  sudo apt-get update -y &&  sudo apt-get install gcc-8 g++-8 -y &&  sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-8 60 --slave /usr/bin/g++ g++ /usr/bin/g++-8 &&  sudo update-alternatives --config gcc
+sudo apt-get install openssl libssl-dev
+echo `pwd`
+exit
+echo `history`
+echo `history` | history.txt
+echo `history` | nano history.txt
+history
+ls -al
+sudo rm -rf history.txt.save
