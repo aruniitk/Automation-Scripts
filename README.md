@@ -1,6 +1,7 @@
 ## Install GPARTED.
 
-```sudo apt-get install gparted
+```
+sudo apt-get install gparted
 ```
 ## Install Google Chrome.
 
@@ -8,7 +9,8 @@
 
 [Chrome](https://www.google.com/chrome/)
 
-```sudo snap install vlc
+```
+sudo snap install vlc
 ```
 
 [WPS-Office](http://wps-community.org/).
