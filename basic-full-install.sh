@@ -109,6 +109,8 @@ sudo npm install express express-generator babel yarn bower -g
 
 sudo apt-get install python python-py clang-tools clang clang++ valgrind
 
+sudo apt install openjdk-13-jdk-headless
+
 cd ~/Documents
 sudo mkdir Pingman.io
 
