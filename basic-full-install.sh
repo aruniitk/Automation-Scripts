@@ -107,6 +107,8 @@ sudo apt-get install -y yarn
 sudo npm install react angular reactjs angularjs -g
 sudo npm install express express-generator babel yarn bower -g
 
+sudo apt-get install python python-py clang-tools clang clang++ valgrind
+
 cd ~/Documents
 sudo mkdir Pingman.io
 
